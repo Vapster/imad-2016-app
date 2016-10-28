@@ -41,7 +41,9 @@ body {
     color: #737171;
     background-color: #fff;
     outline: none;
-    border: 1px solid lightgrey;}
+    border: 1px solid lightgrey;
+    border-radius: 5px;
+}
 .header{
 	font-weight: bold;
 	font-size: 100px;
